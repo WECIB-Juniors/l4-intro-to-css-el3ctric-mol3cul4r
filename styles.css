@@ -4,11 +4,32 @@
 /* This ruleset defines the styling for the entire body of your HTML document. */
 body {
     /* Change this background-color. */
-    background-color: white;
+    background-color: maroon;
 }
 
-/* This defines styling for all your p elements */
+* {color:#ffffff;
 
-p {
+}
+ h1, h2 {color:#000000;
+ }
+button {
+    color:black;
+    background-color: darkgray;
+}
 
+#s1 {font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-bottom:5px;
+}
+
+#s2 {font-family:cursive;
+    margin:3px;
+}
+
+#s3 {font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    letter-spacing:3px;
+    margin:3px;
+}
+
+#s4 {font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-bottom:5px;
 }
